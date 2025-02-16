@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#29310D",
+        "titleBar.activeBackground": "#3A4413",
+        "titleBar.activeForeground": "#F9FBF0"
+    },
+    "liveServer.settings.port": 5501
+}
